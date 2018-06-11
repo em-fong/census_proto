@@ -409,6 +409,7 @@ th {
   font-weight: 700;
   src: url("../fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../fonts/merriweather-bold-webfont.woff") format("woff"), url("../fonts/merriweather-bold-webfont.ttf") format("truetype"); }
 
+
 /* stylelint-enable */
 .usa-grid,
 .usa-grid-full {
@@ -4509,3 +4510,34 @@ footer {
 .slick-dots button:hover, .slick-dots button:active, .slick-dots button:focus, .slick-dots button:visited, .slick-dots [type=button]:active, .slick-dots [type=button]:hover, [type=button]:focus {
   background-color: transparent !important;
   z-index: 0; }
+
+
+ .up {
+   border: solid white;
+   border-width: 0 3px 3px 0;
+   display: inline-block;
+   padding: 3px;
+   transform: rotate(-135deg);
+   -webkit-transform: rotate(-135deg);
+}
+
+  #return-to-top {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 50px;
+      height: 50px;
+      display: none;
+      padding-top: 12px;
+      background: #004469;
+      border-radius: 40px;
+      color: #fff;
+      text-decoration: none;
+      text-align: center;
+      box-shadow: 2px;
+  }
+
+
+  #return-to-top:hover {
+      background: #C8002C;004469
+  }
