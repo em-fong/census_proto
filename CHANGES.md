@@ -21,7 +21,8 @@
 ### Home:
 * Added logos of participating agencies
 * Renamed "In the Media" to "Media Archive"
-* Changed "Join the Next Cohort" email to a current One
+* Changed "Join the Next Cohort" email to a current one
+* Added sprint date
 
 ### Projects:
 * Redesigned "Return to Top" button & added mobile compatibility
