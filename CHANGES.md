@@ -19,7 +19,6 @@
 * Renamed "Get Started" to "Our Toolkit"
 
 ### Home:
-* Added logos of participating agencies
 * Renamed "In the Media" to "Media Archive"
 * Changed "Join the Next Cohort" email to a current one
 * Added sprint date
