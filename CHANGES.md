@@ -28,4 +28,3 @@
 
 ### Files Added:
 * return-top-mobile.js
-* 5 images for agency logos
