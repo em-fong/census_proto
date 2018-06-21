@@ -13,7 +13,7 @@
 ### Toolkit:
 * Added mobile compatibility, including a collapsed mobile nav
 
-## Changes made as of 6/192018
+## Changes made as of 6/19/2018
 
 ### All:
 * Renamed "Get Started" to "Our Toolkit"
@@ -28,3 +28,8 @@
 
 ### Files Added:
 * return-top-mobile.js
+
+## Changes made as of 6/19/2018
+
+### Homepage:
+* Added section that details current sprint

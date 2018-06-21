@@ -4541,3 +4541,15 @@ footer {
   #return-to-top:hover {
       background: #C8002C;004469
   }
+
+  #ps-table {
+    border: white;
+  }
+
+  .ps-colored-cell {
+    background-color: #0078AC;
+  }
+
+  .ps-colored-cell-head {
+    background-color: #04658e;
+  }
